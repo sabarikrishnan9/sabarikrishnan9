@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sabarikrishnanmpl2024@gmail.com**
 
-- ⚡ Fun fact **Honey never spoils, lasts forever**
+- ⚡ Completed Task **Dashboard,Formvalidation,Connection with API and Localstorage,JSON Task**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
