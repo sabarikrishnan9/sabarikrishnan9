@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabari Krishnan M</h1>
-<h3 align="center">A passionate frontend developer from Zerp Labs</h3>
+<h3 align="center">A passionate Intern from Zerp Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarikrishnan9&label=Profile%20views&color=0e75b6&style=flat" alt="sabarikrishnan9" /> </p>
 
